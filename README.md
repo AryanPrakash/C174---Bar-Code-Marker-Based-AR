@@ -1,1 +1,1 @@
-# C174---Bar-Code-Marker-Based-AR
+# PRO-C174-Student-Boilerplate
